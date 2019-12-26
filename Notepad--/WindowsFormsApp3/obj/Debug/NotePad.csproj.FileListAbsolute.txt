@@ -1,0 +1,10 @@
+D:\My Projects\Notepad--\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\My Projects\Notepad--\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\My Projects\Notepad--\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\My Projects\Notepad--\WindowsFormsApp3\obj\Debug\NotePad.csprojAssemblyReference.cache
+D:\My Projects\Notepad--\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\My Projects\Notepad--\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Child.resources
+D:\My Projects\Notepad--\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\My Projects\Notepad--\WindowsFormsApp3\obj\Debug\NotePad.csproj.GenerateResource.cache
+D:\My Projects\Notepad--\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\My Projects\Notepad--\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

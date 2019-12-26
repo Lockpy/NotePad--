@@ -1,0 +1,30 @@
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Богиня\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\RPZSTO161\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Child.resources
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Child.resources
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\My Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
