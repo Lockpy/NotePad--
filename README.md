@@ -1,6 +1,6 @@
 # NotePad--
 
-Course project for Microsoft .NET Framework and C# Programming Language
+Exam project for Microsoft .NET Framework and C# Programming Language
 
 Task: make a notepad in 2 pairs (3 hours) 
 
